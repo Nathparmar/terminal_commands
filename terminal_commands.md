@@ -1,10 +1,11 @@
-# Using Terminal
+# My terminal Command Cheat Sheet
 
-##My Terminal Command Cheat sheet
+
 
 pwd = working directory
 
 ls = list of directories
+
 cd = change directory/brings back to home directory e.g. Users/nathparmar
 cd - = Previous directory/folder you last browsed
 cd.. = moves upto previous directory
