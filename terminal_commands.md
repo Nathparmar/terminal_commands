@@ -2,7 +2,7 @@
 
 
 
-pwd = working directory
+* pwd = working directory
 
 ls = list of directories
 
