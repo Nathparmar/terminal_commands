@@ -3,11 +3,9 @@
 
 
 * pwd = working directory
-
-ls = list of directories
-
-cd = change directory/brings back to home directory e.g. Users/nathparmar
-cd - = Previous directory/folder you last browsed
+* ls = list of directories
+* cd = change directory/brings back to home directory e.g. Users/nathparmar
+* cd - = Previous directory/folder you last browsed
 cd.. = moves upto previous directory
 cd../.. = moves up two levels of directories
 ../../.. = 3 levels usp
