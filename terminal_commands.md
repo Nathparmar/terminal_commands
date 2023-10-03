@@ -1,4 +1,4 @@
- My Terminal Command Cheat sheet
+##My Terminal Command Cheat sheet
 
 pwd = working directory; 
 ls = list of directories
