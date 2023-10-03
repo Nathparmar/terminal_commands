@@ -1,6 +1,6 @@
  My Terminal Command Cheat sheet
 
-pwd = working directory
+pwd = working directory 
 ls = list of directories
 cd = change directory/brings back to home directory e.g. Users/nathparmar
 cd - = Previous directory/folder you last browsed
